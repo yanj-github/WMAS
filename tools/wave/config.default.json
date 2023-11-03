@@ -1,7 +1,7 @@
 {
-  "browser_host": "web-platform.test",
+  "browser_host": "webapitests2021.resillion.com",
   "alternate_hosts": {
-    "alt": "not-web-platform.test"
+    "alt": "not-webapitests2021.resillion.com"
   },
   "doc_root": ".",
   "ws_doc_root": "./websockets/handlers",
